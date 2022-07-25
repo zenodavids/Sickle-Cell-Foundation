@@ -506,6 +506,8 @@ strong {
 .highlight-image {
   display: block;
   width: 100%;
+  height: auto;
+  object-fit: cover;
   transition: transform 2s;
 }
 
